@@ -1,3 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-Hello interesting tutorial
+# About me
+
+I am Prashil Patel Senior at Rutgers.
